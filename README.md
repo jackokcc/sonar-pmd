@@ -15,3 +15,9 @@ Set the sonar.java.source property to tell PMD which version of Java your source
 
 ## Rules on test
 PMD tool provides some rules that can check the code of JUnit tests.Please note that these rules (and only these rules) will be applied only on the test files of your project.
+
+
+## ref add p3c
+
+http://younian.net.cn/article/143
+https://github.com/mrprince/sonar-p3c-pmd
